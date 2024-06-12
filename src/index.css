@@ -1,4 +1,4 @@
-/* 
+/*
 const messages = [
   "Learn React ⚛️",
   "Apply for jobs 💼",
@@ -16,7 +16,7 @@ body {
 }
 
 .steps {
-  width: 600px;
+  width: 1000px;
   background-color: #f7f7f7;
   border-radius: 7px;
   padding: 25px 100px;

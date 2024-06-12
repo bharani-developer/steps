@@ -35,6 +35,13 @@ export default function App() {
             <div className={`${step >= 1 ? "active" : ""}`}>1</div>
             <div className={`${step >= 2 ? "active" : ""}`}>2</div>
             <div className={`${step >= 3 ? "active" : ""}`}>3</div>
+            <div className={`${step >= 4 ? "active" : ""}`}>4</div>
+            <div className={`${step >= 5 ? "active" : ""}`}>5</div>
+            <div className={`${step >= 6 ? "active" : ""}`}>6</div>
+            <div className={`${step >= 7 ? "active" : ""}`}>7</div>
+            <div className={`${step >= 8 ? "active" : ""}`}>8</div>
+            <div className={`${step >= 9 ? "active" : ""}`}>9</div>
+            <div className={`${step >= 10 ? "active" : ""}`}>10</div>
           </div>
           {/* message */}
           <p className="message">
