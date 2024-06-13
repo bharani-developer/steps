@@ -1,4 +1,4 @@
-![Steps](https://github.com/bharani-developer/pizza-menu/blob/main/public/steps.png)
+![Steps](https://github.com/bharani-developer/steps/blob/main/public/steps.png)
 
 # Simple React Steps App
 
