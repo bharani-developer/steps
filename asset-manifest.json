@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bharani-developer/steps/static/css/main.fbaf8a87.css",
+    "main.js": "/bharani-developer/steps/static/js/main.25724d8d.js",
+    "index.html": "/bharani-developer/steps/index.html",
+    "main.fbaf8a87.css.map": "/bharani-developer/steps/static/css/main.fbaf8a87.css.map",
+    "main.25724d8d.js.map": "/bharani-developer/steps/static/js/main.25724d8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbaf8a87.css",
+    "static/js/main.25724d8d.js"
+  ]
+}
